@@ -18,7 +18,7 @@
 
 ## Установка
 ```bash
-git clone https://github.com/yourusername/genetic-cnn.git 
+git clone https://github.com/hemerolls/genetic-cnn.git 
 cd genetic-cnn
 pip install -r requirements.txt
 ```
